@@ -5,7 +5,7 @@
 
   <groupId>no.entra.entraos</groupId>
   <artifactId>realestatecore-sdk</artifactId>
-  <version>0.1.2</version>
+  <version>0.1.3-SNAPSHOT</version>
 
   <name>realestatecore-sdk</name>
   <url>https://github.com/entraeiendom/entraos-realestatecore-sdk</url>
@@ -14,7 +14,7 @@
     <developerConnection>scm:git:ssh://git@github.com/entraeiendom/entraos-realestatecore-sdk.git</developerConnection>
     <connection>scm:git:https://github.com/entraeiendom/entraos-realestatecore-sdk.git</connection>
     <url>https://github.com/entraeiendom/entraos-realestatecore-sdk</url>
-    <tag>realestatecore-sdk-0.1.2</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <properties>
